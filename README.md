@@ -1,0 +1,2 @@
+# Comptec
+personal projects
